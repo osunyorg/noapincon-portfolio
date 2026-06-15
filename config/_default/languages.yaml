@@ -9,6 +9,18 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            noapincon@gmail.com
+          value: >-
+            mailto:noapincon@gmail.com
+      social_networks:
+        instagram:
+          label: >-
+            noa_pincon_?igsh=MW4yNzZncWNkMGM2OA%3D%3D&utm_source=qr
+          value: >-
+            https://instagram.com/noa_pincon_?igsh=MW4yNzZncWNkMGM2OA%3D%3D&utm_source=qr
 
   taxonomies:
     administrator: administrators
