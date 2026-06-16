@@ -14,3 +14,19 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/projets/2026-presentation/index.html"
+to = "/projets/2010-presentation/"
+
+[[redirects]]
+from = "/projets/2026-mes-performances-sportives-et-scolaires/index.html"
+to = "/projets/2021-mes-performances-sportives-et-scolaires/"
+
+[[redirects]]
+from = "/projets/2026-mes-oeuvres-artistiques/index.html"
+to = "/projets/2020-mes-oeuvres-artistiques/"
+
+[[redirects]]
+from = "/projets/2026-mes-exploits-scolaires/index.html"
+to = "/projets/2022-mes-exploits-scolaires/"
+
