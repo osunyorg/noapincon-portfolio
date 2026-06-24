@@ -11,3 +11,9 @@ params:
   home:
     head:
       title: site
+  projects:
+    index:
+      layout: list
+  persons:
+    index:
+      layout: list
